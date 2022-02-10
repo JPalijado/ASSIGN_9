@@ -1,0 +1,59 @@
+{
+    "Profile": [
+        {
+            "First Name": "Samuel Gideon",
+            "Last Name": "Forrester",
+            "Age": "32",
+            "Birthday": "March 10, 1990",
+            "Sex": "Male",
+            "Address": "Redline St. High Lands Subd. Cubao, Quezon City",
+            "E-mail": "sagiforrester@gmail.com",
+            "Contact Number": "09856734124"
+        }],
+    "Experience": [
+        {
+            "Current Job": [
+                {
+                    "Occupation": "Software Engineer",
+                    "Company": "Healthmade Solutions (2020-present)",
+                    "Job Description A": "Direct Software Design", 
+                    "Job Description B": "Evaluate interface between hardware and software", 
+                    "Job Description C": "Advice customers regarding software system maintenance"
+                }],
+            "First Job": [
+                {
+                    "Occupation": "Junior Software Engineer", 
+                    "Company": "RealPro Software (2018-2020)", 
+                    "Job Description A": "Stored, recieved, and manipulated data", 
+                    "Job Description B": "Modified existing software to correct errors", 
+                    "Job Description C": "Prepared detail reports"
+                }]
+        }],
+    "Skills": [
+        {
+            "First": "Performance and scability optimisation", 
+            "Second": "SharePoint", 
+            "Third": "API design", 
+            "Fourth": "Data and warehousing analytics"
+        }],
+    "Hobbies": [
+        {
+            "First": "Playing football", 
+            "Second": "Composing Songs", 
+            "Third": "Mountain Climbing", 
+            "Fourth": "Watching tv series and movies"
+        }],
+    "Education": [
+        {
+            "Second Diploma": [
+                {
+                    "Course": "BS Software Engineering", 
+                    "School": "Ateneo de Manila University (2012-2016)"
+                }],
+            "First Diploma": [
+                {
+                    "Course": "BA in Multimedia Arts", 
+                    "School": "University of the Philippines (2007-2011)"
+                }]
+        }]
+}
